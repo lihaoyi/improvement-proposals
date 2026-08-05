@@ -1,9 +1,14 @@
 ---
 layout: sip
-permalink: /sips/:title.html
-stage: implementation
-status: under-review
-title: SIP-XX Allow Partial Function Literals to be defined with Parentheses
+number: 74
+permalink: /sips/:number.html
+redirect_from:
+  - /sips/:number
+  - /sips/:title.html
+stage: completed
+status: shipped
+shipped: 3.10.0
+title: Allow Partial Function Literals to be defined with Parentheses
 ---
 
 **By: Li Haoyi**
